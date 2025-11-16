@@ -11,9 +11,11 @@ This Excel-based analysis explores Aero’s 2014 sales performance, uncovering r
 This project presents a detailed analysis of Aero’s 2019 sales performance using Microsoft 
 Excel. The goal is to uncover key revenue drivers, customer behavior trends, and regional 
 strengths while identifying actionable strategies for future growth. 
+
 By translating transactional records into a visual dashboard, the analysis offers insight into 
 Aero’s sales distribution, product performance, and payment dynamics across multiple 
 dimensions such as region, customer type, and salesperson efficiency. 
+
 2. Story of Data 
 The dataset represents Aero’s complete 2019 commercial records, including regional sales, 
 customer segmentation, payment methods, and product categories. Each transaction provides 
